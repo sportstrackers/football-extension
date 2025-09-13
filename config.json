@@ -2,10 +2,12 @@
   "showButton": true,
   "buttons": [
     {
+      "id": "NFL",
       "text": "Official NFL Scores",
       "redirectUrl": "https://www.espn.com/nfl/scoreboard"
     },
     {
+      "id": "CFTB",
       "text": "Official College Football Scores",
       "redirectUrl": "https://www.espn.com/college-football/scoreboard"
     }
