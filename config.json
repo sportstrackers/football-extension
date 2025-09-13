@@ -1,0 +1,13 @@
+{
+  "showButton": true,
+  "buttons": [
+    {
+      "text": "NFL Scores",
+      "redirectUrl": "https://www.espn.com/nfl/scoreboard"
+    },
+    {
+      "text": "College Football Scores",
+      "redirectUrl": "https://www.espn.com/college-football/scoreboard"
+    }
+  ]
+}
