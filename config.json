@@ -4,7 +4,7 @@
     {
       "id": "NFL_LIVE",
       "text": "Watch NFL Live",
-      "redirectUrl": "https://www.nfl.com/live"
+      "redirectUrl": "https://www.nfl.com/ways-to-watch/"
     },
     {
       "id": "NFL_SCHEDULED",
@@ -14,7 +14,7 @@
     {
       "id": "CFTB_LIVE",
       "text": "Watch College Football Live",
-      "redirectUrl": "https://www.ncaa.com/live"
+      "redirectUrl": "https://www.espn.com/where-to-watch/leagues/college-football"
     },
     {
       "id": "CFTB_SCHEDULED",
