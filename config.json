@@ -2,14 +2,24 @@
   "showButton": true,
   "buttons": [
     {
-      "id": "NFL",
-      "text": "Official NFL Scores",
-      "redirectUrl": "https://www.espn.com/nfl/scoreboard"
+      "id": "NFL_LIVE",
+      "text": "Watch NFL Live",
+      "redirectUrl": "https://www.nfl.com/live"
     },
     {
-      "id": "CFTB",
-      "text": "Official College Football Scores",
-      "redirectUrl": "https://www.espn.com/college-football/scoreboard"
+      "id": "NFL_SCHEDULED",
+      "text": "NFL Upcoming Games",
+      "redirectUrl": "https://www.espn.com/nfl/schedule"
+    },
+    {
+      "id": "CFTB_LIVE",
+      "text": "Watch College Football Live",
+      "redirectUrl": "https://www.ncaa.com/live"
+    },
+    {
+      "id": "CFTB_SCHEDULED",
+      "text": "College Football Upcoming Games",
+      "redirectUrl": "https://www.espn.com/college-football/schedule"
     }
   ]
 }
