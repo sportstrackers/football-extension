@@ -1,39 +1,9 @@
 {
   "showButton": true,
   "extensions": {
-    "soccer": {
-      "buttons": {
-        "LIVE": { "text": "Watch Live", "redirectUrl": "https://www.espn.com/soccer/scoreboard" },
-        "SCHEDULED": { "text": "Upcoming Games", "redirectUrl": "https://www.espn.com/soccer/schedule" },
-        "FINISHED": { "text": "Watch Highlights", "redirectUrl": "https://www.espn.com/soccer/video" }
-      }
-    },
     "football": {
-      "buttons": [
-        { "id": "LIVE", "text": "Watch Football Live", "redirectUrl": "https://www.espn.com/football/scoreboard" },
-        { "id": "SCHEDULED", "text": "Football Upcoming Games", "redirectUrl": "https://www.espn.com/football/schedule" },
-        { "id": "FINISHED", "text": "Football Results", "redirectUrl": "https://www.espn.com/football/scoreboard" }
-      ]
-    },
-    "hockey": {
       "buttons": {
-        "LIVE": { "text": "Watch Live", "redirectUrl": "https://www.nhl.com/tv/" },
-        "SCHEDULED": { "text": "Upcoming Games", "redirectUrl": "https://www.espn.com/nhl/schedule" },
-        "FINISHED": { "text": "Watch Highlights", "redirectUrl": "https://www.nhl.com/video/" }
-      }
-    },
-    "baseball": {
-      "buttons": {
-        "LIVE": { "text": "Watch Live", "redirectUrl": "https://www.mlb.com/live-stream-games" },
-        "SCHEDULED": { "text": "Upcoming Games", "redirectUrl": "https://www.espn.com/mlb/schedule" },
-        "FINISHED": { "text": "Watch Highlights", "redirectUrl": "https://www.mlb.com/video/" }
-      }
-    },
-    "basketball": {
-      "buttons": {
-        "LIVE": { "text": "Watch Live", "redirectUrl": "https://www.nba.com/watch/" },
-        "SCHEDULED": { "text": "Upcoming Games", "redirectUrl": "https://www.espn.com/nba/schedule" },
-        "FINISHED": { "text": "Watch Highlights", "redirectUrl": "https://www.nba.com/video/" }
+        "football": { "text": "Watch Live", "redirectUrl": "https://www.dazn.com/en-MA/sport/Sport:289u5typ3vp4ifwh5thalohmq" },
       }
     }
   }
