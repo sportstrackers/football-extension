@@ -1,25 +1,40 @@
 {
   "showButton": true,
-  "buttons": [
-    {
-      "id": "NFL_LIVE",
-      "text": "Watch NFL Live",
-      "redirectUrl": "https://www.nfl.com/ways-to-watch/"
+  "extensions": {
+    "soccer": {
+      "buttons": {
+        "LIVE": { "text": "Watch Live", "redirectUrl": "https://www.espn.com/soccer/scoreboard" },
+        "SCHEDULED": { "text": "Upcoming Games", "redirectUrl": "https://www.espn.com/soccer/schedule" },
+        "FINISHED": { "text": "Watch Highlights", "redirectUrl": "https://www.espn.com/soccer/video" }
+      }
     },
-    {
-      "id": "NFL_SCHEDULED",
-      "text": "NFL Upcoming Games",
-      "redirectUrl": "https://www.espn.com/nfl/schedule"
+    "football": {
+      "buttons": [
+        { "id": "LIVE", "text": "Watch Football Live", "redirectUrl": "https://www.espn.com/football/scoreboard" },
+        { "id": "SCHEDULED", "text": "Football Upcoming Games", "redirectUrl": "https://www.espn.com/football/schedule" },
+        { "id": "FINISHED", "text": "Football Results", "redirectUrl": "https://www.espn.com/football/scoreboard" }
+      ]
     },
-    {
-      "id": "CFTB_LIVE",
-      "text": "Watch College Football Live",
-      "redirectUrl": "https://www.espn.com/where-to-watch/leagues/college-football"
+    "hockey": {
+      "buttons": {
+        "LIVE": { "text": "Watch Live", "redirectUrl": "https://www.nhl.com/tv/" },
+        "SCHEDULED": { "text": "Upcoming Games", "redirectUrl": "https://www.espn.com/nhl/schedule" },
+        "FINISHED": { "text": "Watch Highlights", "redirectUrl": "https://www.nhl.com/video/" }
+      }
     },
-    {
-      "id": "CFTB_SCHEDULED",
-      "text": "College Football Upcoming Games",
-      "redirectUrl": "https://www.espn.com/college-football/schedule"
+    "baseball": {
+      "buttons": {
+        "LIVE": { "text": "Watch Live", "redirectUrl": "https://www.mlb.com/live-stream-games" },
+        "SCHEDULED": { "text": "Upcoming Games", "redirectUrl": "https://www.espn.com/mlb/schedule" },
+        "FINISHED": { "text": "Watch Highlights", "redirectUrl": "https://www.mlb.com/video/" }
+      }
+    },
+    "basketball": {
+      "buttons": {
+        "LIVE": { "text": "Watch Live", "redirectUrl": "https://www.nba.com/watch/" },
+        "SCHEDULED": { "text": "Upcoming Games", "redirectUrl": "https://www.espn.com/nba/schedule" },
+        "FINISHED": { "text": "Watch Highlights", "redirectUrl": "https://www.nba.com/video/" }
+      }
     }
-  ]
+  }
 }
