@@ -1,10 +1,8 @@
 {
   "showButton": true,
   "extensions": {
-    "football": {
-      "buttons": {
-        "football": { "text": "Watch Live", "redirectUrl": "espn.com" },
-      }
+    "buttons": {
+      "default": { "text": "Watch Live", "redirectUrl": "espn.com" }
     }
   }
 }
