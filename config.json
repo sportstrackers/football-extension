@@ -3,7 +3,7 @@
   "extensions": {
     "football": {
       "buttons": {
-        "football": { "text": "Watch Live", "redirectUrl": "https://www.dazn.com/en-MA/sport/Sport:289u5typ3vp4ifwh5thalohmq" },
+        "football": { "text": "Watch Live", "redirectUrl": "espn.com" },
       }
     }
   }
