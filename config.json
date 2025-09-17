@@ -1,5 +1,5 @@
 {
-  "showButton": false,
+  "showButton": True,
   "extensions": {
     "buttons": {
       "default": { "text": "Watch Live", "redirectUrl": "espn.com" }
